@@ -1,6 +1,6 @@
 # Dataset of the Paper "Demystifying Issues, Causes and Solutions in LLM Open-Source Projects"
 
-The dataset collected from GitHub is used to conduct an empirical study on the issues, causes and solutions of LLM open-source projects. A brief description of each document in the dataset is provided below:
+The dataset collected from GitHub is used to conduct an empirical study on the issues, causes and solutions of LLM open-source projects. A brief description of each document in the dataset is provided below: 
 
 ## 1. raw data folder
 
