@@ -2,9 +2,9 @@
 
 The dataset collected from GitHub is used to conduct an empirical study on the issues, causes and solutions of LLM open-source projects. A brief description of each document in the dataset is provided below: 
 
-## 1. raw data folder
+## 1. Formal_Labelling folder
 
-ccontains 14,476 .xlsx files, each of which includes the information from a GitHub closed issue. All 14,476 files collectively constitute the raw data for this study.
+contains 14,476 .xlsx files, each of which includes the information from a GitHub closed issue. All 14,476 files collectively constitute the formal data labelling results of this study.
 
 ## 2. Pilot_Labelling.xlsx
 
